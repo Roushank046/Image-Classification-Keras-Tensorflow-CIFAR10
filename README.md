@@ -1,0 +1,2 @@
+# Image-Classification-Keras-Tensorflow-CIFAR10
+In this project, I have built a convolutional neural network in Keras with Python on a CIFAR-10 dataset. First, we will explore our dataset, and then we will train our neural network using Python and Keras. After training the model and obtaining  the suitable accuracy we finally conclude our model creation part. Next, we have  used Tkinter library of python to build a Graphical User Interface where a user can  upload an image and classify the image into predefined class of CIFAR10 dataset.
